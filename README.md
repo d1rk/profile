@@ -33,3 +33,7 @@ Founded brünsicke.com in 2001 as a software solution provider, working for ente
 Co-Founded ShopYeti.com in 2009, delivering finest and daily fresh deals, entertaining users with a fun and useful experience.
 
 ![180x78 Shopyeti](https://github.com/d1rk/profile/raw/master/assets/180x78_shopyeti.png)
+
+### Quotes
+
+"This should be more simple."
