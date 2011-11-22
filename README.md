@@ -36,4 +36,4 @@ Co-Founded ShopYeti.com in 2009, delivering finest and daily fresh deals, entert
 
 ### Quotes
 
-"This should be more simple."
+> "This should be more simple."
