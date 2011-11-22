@@ -2,7 +2,7 @@
 
 ## Software Architect & Trainer
 
-![Db](assets/db.jpg)
+![Db](https://github.com/d1rk/profile/raw/master/assets/db.jpg)
 
 ### Facts
 
@@ -26,10 +26,10 @@ Works as software developer, architect, trainer and speaker
 
 Founded brünsicke.com in 2001 as a software solution provider, working for enterprise companies and internet startups.
 
-![Bruensicke](assets/bruensicke.png)
+![Bruensicke](https://github.com/d1rk/profile/raw/master/assets/bruensicke.png)
 
 #### ShopYeti UG
 
 Co-Founded ShopYeti.com in 2009, delivering finest and daily fresh deals, entertaining users with a fun and useful experience.
 
-![180x78 Shopyeti](assets/180x78_shopyeti.png)
+![180x78 Shopyeti](https://github.com/d1rk/profile/raw/master/assets/180x78_shopyeti.png)
